@@ -1,14 +1,14 @@
-<!-- ![Nubank logo](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSGaaLdmqstn1dKHQZMlNCf_5H2jqccepSOxeeF8pvUAu-brc4%26s&sp=1654671004T49f79d6d942a3f1bf7d68c94e1b0f37a770daf771ae8a13f92dd45c86363fece) -->
+![Nubank logo](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fveja.abril.com.br%2Fwp-content%2Fuploads%2F2021%2F09%2FGettyImages-1234739632.jpg&sp=1654892331T912d7baba3843000d1b744e1f61249519c47119f9e2d10ed1a78e47ee3705860)
 
-<div>
-    <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSGaaLdmqstn1dKHQZMlNCf_5H2jqccepSOxeeF8pvUAu-brc4%26s&sp=1654671004T49f79d6d942a3f1bf7d68c94e1b0f37a770daf771ae8a13f92dd45c86363fece" alt="">
-</div>
 
 ## Tecnologias usadas
-
-<div>
-    <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcQXkKJYDS5eQ14qMBvdagmme38byrPHFTRVFXfdv2cpeuLmOC4%26s&sp=1654671373T54c33fad59671533c1adbe5e79e061fa03d84292074ff8751c98c1a13d4bae04" alt="html-logo">
-    <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcQyFtrqSNEciJ28XLdNRsQq0EqF1oS9wTqNRfkPXTYaSNKwi2wR%26s&sp=1654671405T32737715fb4b8e771e5f671bfcec1369a7eaade4faf19a86e8e68d2436c44f34" alt="css-logo">
+<div style="display: inline_block"><br>
+  <img align="center" alt="dav-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!---<img align="center" alt="dav-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
+  <!--<img align="center" alt="dav-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
+  <img align="center" alt="dav-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="dav-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    
 </div>
 
 ## Descrição
